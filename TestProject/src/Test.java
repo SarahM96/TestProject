@@ -5,7 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
       
 		System.out.println("hiiiiiiii");
-		System.out.print("newwwwwwwwwwwwwwww");
+		System.out.print("newwwwwwwwwwwwwwwwXXXXXXXXXXXXXXXX");
 		System.out.println("ji");
 		
 	}
