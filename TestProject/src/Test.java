@@ -6,6 +6,7 @@ public class Test {
       
 		System.out.println("hiiiiiiii");
 		System.out.print("newwwwwwwwwwwwwwww");
+		System.out.println("ji");
 		
 	}
 
