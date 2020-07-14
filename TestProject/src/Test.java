@@ -7,7 +7,7 @@ public class Test {
 		System.out.println("hiiiiiiii");
 		System.out.print("newwwwwwwwwwwwwwwwXXXXXXXXXXXXXXXX");
 		System.out.println("ji");
-		System.out.print("sarah");
+		System.out.print("X");
 		
 	}
 
